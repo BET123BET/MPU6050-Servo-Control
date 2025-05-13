@@ -1,6 +1,6 @@
 # MPU6050-Servo-Control
 
-# ⚠️ Install all the needed Libraries ⚠️
+⚠️ Install all the needed Libraries ⚠️
 
 MPU-6050 sensor module 
 
